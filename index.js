@@ -20,7 +20,9 @@ function currentLine(line) {
   const arr = []
   
   for (let i = 0, l = line.length; i < l; i++) {
-    arr.push(`)
+    arr.push(`${i + 1}. ${line[i]}`)
   }
+  
+  return `The line is currently: ${arr.join(', ')}`
   
 }
