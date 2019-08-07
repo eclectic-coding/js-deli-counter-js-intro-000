@@ -10,5 +10,5 @@ function nowServing (line) {
   }
 
   
-  return ""
+  return "The line is currently: ${line.shift}"
 }
