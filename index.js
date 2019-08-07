@@ -1,4 +1,4 @@
 function takeANumber(num, name) {
-  line
+  num.length(`Welcome + )
   
 }
