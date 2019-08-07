@@ -5,7 +5,9 @@ function takeANumber(num, name) {
 }
 
 function nowServing (line) {
-  if (!line.shirt)
+  if (!line.length) {
+    return
+  }
   
   
   return // first person in line 
