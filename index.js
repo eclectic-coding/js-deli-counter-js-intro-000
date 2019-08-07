@@ -19,6 +19,6 @@ function currentLine(line) {
   
   const arr = []
   
-  
+  for (let i = 0, )
   
 }
