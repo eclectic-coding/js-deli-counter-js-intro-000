@@ -19,7 +19,7 @@ function currentLine(line) {
   
   const arr = []
   
-  for (let i = 0, l = line.length; ) {
+  for (let i = 0, l = line.length; i < l; i++) {
     
   }
   
