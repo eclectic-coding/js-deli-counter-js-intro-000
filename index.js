@@ -6,9 +6,9 @@ function takeANumber(num, name) {
 
 function nowServing (line) {
   if (!line.length) {
-    return
+    return "There is nobody waiting to be served!"
   }
+
   
-  
-  return // first person in line 
+  return ""
 }
