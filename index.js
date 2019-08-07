@@ -1,5 +1,4 @@
-function takeANumber() {
-  var katzDeliLine = []
+function takeANumber(num, name) {
   
   
 }
